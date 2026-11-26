@@ -55,6 +55,10 @@ pip install scikit-rf numpy scipy matplotlib packaging
 Tested with Python 3.13, scikit-rf 1.11.0, numpy 2.3.3, scipy 1.16.2, matplotlib 3.10.6.
 vector_fit uses a different fit setting for scikit-rf older than 1.11.0.
 
+## Related tools
+
+lumpedmodel is one of several open-source tools for EM simulation of IHP SG13G2 layouts, from KLayout to S-parameters and circuit models. For an overview, see [Which tool for what](https://github.com/VolkerMuehlhaus/gds2palace_ihp_sg13g2/blob/main/doc/toolchain_overview.md).
+
 ## How to cite
 
 If you use lumpedmodel in a publication, please cite it. The **Cite this repository** button on the GitHub repository page gives APA and BibTeX entries, generated from [CITATION.cff](./CITATION.cff).
